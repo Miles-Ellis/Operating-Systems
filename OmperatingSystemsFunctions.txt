@@ -1,0 +1,4 @@
+One function of operating systems is to monitor the performance of the device.  
+This is done through a program that reports information on computer resources (CPU, Memory, Disk, Network, GPU...)
+In windowsOS, a TaskManager is used.  Now that I require more of my device, I frequently use this monitoring program //
+to assess how my resources are allocated.
