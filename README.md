@@ -1,4 +1,4 @@
-# Operating-Systems
+# Operating_Systems
 PCC - CIS 120
 One function of operating systems is to monitor the performance of the device.  
 This is done through a program that reports information on computer resources (CPU, Memory, Disk, Network, GPU...)
